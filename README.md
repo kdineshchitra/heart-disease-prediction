@@ -8,6 +8,7 @@ This is a single notebook project which demonstrates some foundational machine l
 This project is a single jupyter notebook(.ipynb file) in Python3.  
 The version of Python and other libraries are,  
 <img src="images/requirements.png" alt="environment requirements" width="700" />  
+Can create the same environment (used to do create this project .ipynb file) with the use of the [environment.txt](https://github.com/kdineshchitra/heart-disease-prediction/blob/master/environment.txt) or [environment.yml](https://github.com/kdineshchitra/heart-disease-prediction/blob/master/environment.yml) file.
 
 ## Problem Statement
 
