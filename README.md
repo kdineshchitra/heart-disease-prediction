@@ -17,7 +17,7 @@ Can create the same environment (used to do create this project .ipynb file) wit
 ## Data for the problem
 
 Data is structured(303 rows and 14 columns) and it is in the form of a '.csv' file.
-The original data came from the Cleveland database from UCI Machine Learning Repository.[(link here)](https://archive.ics.uci.edu/ml/datasets/Heart+Disease/)  
+The original data came from the Cleveland database from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease/).  
 The following features were used to predict the target variable (heart disease or no heart disease).  
 1. age
 2. sex
